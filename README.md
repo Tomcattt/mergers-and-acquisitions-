@@ -4,6 +4,6 @@ The aim of the project is to set up a system to predict the possibility of a mer
 
 The results of this study are interesting for VC funds. This allows them to drastically reduce their potential targets, to focus on tech companies with a high  probability of being bought out in a M&A process, thus allowing VC funds to gain more premium and lose less time in the choice of their target.
 
-Data is coming from : https://www.patentsview.org/
+Raw patent data is coming from : https://www.patentsview.org/
 
 The pre-calculated similarity data comes from the database given by Ryan Whalen: https://github.com/ryanwhalen/patent_similarity_data
