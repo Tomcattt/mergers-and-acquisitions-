@@ -15,3 +15,5 @@ The idea now is to determine the similarity between the patents on both sides of
 
 # a %9 relevance, HUGE
 Out of 100 mergers, 31 are carried out between two companies each having at least one patent, and 9 are carried out between two companies having at least one patent sufficiently close. Out of this first sample of 100 mergers, we therefore have a model relevance for about 9% of the total mergers, which is huge. This would mean that 9% of the mergers and acquisitions notified on CrunchBase are relevant for the study. It's going to be fun (WORK IN PROGRESSS....).
+
+## For a better visualization of the code, open the M&A Prediction.Pdf file.
